@@ -1,0 +1,12 @@
+struct p{
+	struct t{
+		int a;
+	}q;
+	int a;
+};
+
+int main(){
+	struct t b;
+	return 0;
+
+}

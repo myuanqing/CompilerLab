@@ -1,0 +1,74 @@
+|
+|__Code
+|  |__makefile
+|  |__semantic.c
+|  |__lexical.l
+|  |__syntax.y
+|  |__main.c
+|  |__compiler.h	 
+|  |__parser
+|
+|__README
+|
+|
+|__Test
+|  |__sample1.cmm
+|  |__sample2.cmm
+|  |__sample3.cmm
+|  |__sample4.cmm
+|  |__sample5.cmm
+|  |__sample6.cmm
+|  |__sample7.cmm
+|  |__sample8.cmm
+|  |__sample9.cmm
+|  |__sample10.cmm
+|  |__sample11.cmm
+|  |__sample12.cmm
+|  |__sample13.cmm
+|  |__sample14.cmm
+|  |__sample15.cmm
+|  |__sample16.cmm
+|  |__sample17.cmm
+|  |__sample1b.cmm
+|  |__sample2b.cmm
+|  |__sample3b.cmm
+|  |__sample4b.cmm
+|  |__sample5b.cmm
+|  |__sample6b.cmm
+|  |__sample7b.cmm
+|
+|__report.pdf
+|
+|
+|__lab2_pics.pdf
+
+
+############## HOW_TO_TEST #######################
+cd Code
+   make parser
+   make test1
+   make test2
+   make test3
+   make test4
+   make test5
+   make test6
+   make test7
+   make test8
+   make test9
+   make test10
+   make test11
+   make test12
+   make test13
+   make test14
+   make test15
+   make test16
+   make test17
+   make test1b
+   make test2b
+   make test3b
+   make test4b
+   make test5b
+   make test6b
+   make test7b
+   make clean
+
