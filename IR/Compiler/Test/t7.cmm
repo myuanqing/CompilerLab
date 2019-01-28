@@ -1,0 +1,14 @@
+int main(){
+	int c;
+	c = read();
+	if(c > 3){
+		if(c>5)
+			write(6);
+		else
+			write(4);
+	}else 
+		write(0);
+
+	return 0;
+
+}

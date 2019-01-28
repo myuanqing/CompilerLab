@@ -1,0 +1,21 @@
+|
+|__Code
+|  |__makefile
+|  |__semantic.c
+|  |__lexical.l
+|  |__syntax.y
+|  |__main.c
+|  |__compiler.h	 
+|  |__IR.c
+|  |__mipscode.c
+|
+|__README
+|
+|
+|__Test
+|  |__t1.cmm
+|  |__t2.cmm
+|
+|__report4.pdf
+|
+|__parser
